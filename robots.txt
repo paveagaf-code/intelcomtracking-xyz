@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://intelcomtracking.xyz/sitemap.xml
